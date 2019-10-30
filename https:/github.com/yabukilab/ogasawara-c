@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        
+        <title>PM実験テスト用</title>
+    </head>
+    <body>
+        
+      <h1>
+        <center>津田沼 UberEats おすすめ店舗10選！！</center>
+        </h1>
+
+        <center><img src="ubereats.png" alt="UberEats"　title="UberEats" width="900" height="600"></center>
+        <p><a href="https://www.ubereats.com/ja-JP/feed/?cid=71700000056599358&gclid=EAIaIQobChMIwerYyLPD5QIVkLaWCh3p5wbcEAAYASAAEgK8KPD_BwE&gclsrc=aw.ds&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMiVFNiVCNCVBNSVFNyU5NCVCMCVFNiVCMiVCQyUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpVOG5DVUNtQUltQVI5SEt0Uk9kRXBHZyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EzNS42ODM3ODExJTJDJTIybG9uZ2l0dWRlJTIyJTNBMTQwLjAyMjYxNTQlN0Q%3D&utm_campaign=search-google-brand_85_-99_jp-National_e_all_acq_cpc_ja-jp_combined-matchtype&utm_medium=cpc-brand&utm_source=google&utm_term=uber%20eats">
+        Uber Eats（津田沼周辺）のサイトはこちら</a></p>
+        
+        <p>こんにちは！みなさん、最近流行りのUberEatsという宅配サービスをご存知でしょうか。
+        スマホで手軽に、美味しい料理を頂けるサービスです。我らが津田沼の周辺にはどんなお店があるのでしょうか。
+        今回は、私たちの独断と偏見で津田沼周辺のUberEatsのおすすめ店10選を紹介します！
+           </p>
+        
+        <p><a href="page2.html#sutadon">1店舗目 すた丼</a></p>
+        <p><a href="page2.html#bankara">2店舗目 ばんから</a></p>
+        <p><a href="page2.html#toresu">3店舗目 トレスカフェ</a></p>
+        <p><a href="page2.html#ootoya">4店舗目 大戸屋ごはん処</a></p>
+        <p><a href="page3.html#suzukisan">5店舗目 魚骨らーめん　鈴木さん</a></p>
+        <p><a href="page3.html#gindako">6店舗目 銀だこ</a></p>
+        <p><a href="page3.html#piza">7店舗目 ピザハット</a></p>
+        <p><a href="page4.html#hamazusi">8店舗目 はま寿司</a></p>
+        <p><a href="page4.html#magurodon">9店舗目 マグロ丼丸</a></p>
+        <p><a href="page4.html#makku">10店舗目 マクドナルド</a></p>
+        
+        <p>
+        <a href="page2.html"><center>次のページに進む</center></a>
+        </p>
+        <p>PM実験テスト用</p>        
+
+    </body>
+</html>
